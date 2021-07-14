@@ -1,0 +1,18 @@
+.contents {
+    flex-direction: row;
+}
+/* main and aside desktop */
+main {
+    // margin-left: 30px;
+    margin-bottom: 0;
+}
+
+aside {
+    max-width: 300px;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
